@@ -1,0 +1,69 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "João",
+      "email": "joao@gmail.com",
+      "senha": "12345678",
+      "dataNasc": "1999-01-01",
+      "cpf": null,
+      "cep": null,
+      "rua": null,
+      "numero": null,
+      "cidade": null,
+      "uf": null
+    },
+    {
+      "id": "e1cd",
+      "nome": "igor",
+      "email": "igor@gmail.com",
+      "senha": "123",
+      "dataNasc": "2025-03-04",
+      "cpf": null,
+      "cep": null,
+      "rua": null,
+      "numero": null,
+      "cidade": null,
+      "uf": null
+    },
+    {
+      "id": "aed3",
+      "nome": "asadsasd",
+      "email": "jatagames94@gmail.com",
+      "senha": "123",
+      "dataNasc": "2025-03-06"
+    },
+    {
+      "id": "f5da",
+      "nome": "asadsasd",
+      "email": "jatagames94@gmail.com",
+      "senha": "teste",
+      "dataNasc": "2025-03-06",
+      "cpf": null,
+      "cep": null,
+      "rua": null,
+      "numero": null,
+      "cidade": null,
+      "uf": null
+    }
+  ],
+  "pets": [
+    {
+      "id": 1,
+      "nome": "Rex",
+      "especie": "cachorro",
+      "idade": 0.8,
+      "peso": 8,
+      "altura": 0.3,
+      "curtidas": 0,
+      "tags": [
+        "brincalhão",
+        "amigável",
+        "peludo"
+      ],
+      "imagem": [
+        "public/images/teste.jpeg"
+      ]
+    }
+  ]
+}
