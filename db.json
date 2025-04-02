@@ -2,6 +2,7 @@
   "users": [
     {
       "id": "1",
+      "fotoPerfil": null,
       "nome": "João",
       "email": "joao@gmail.com",
       "senha": "12345678",
@@ -19,10 +20,12 @@
       "id": 1,
       "nome": "Rex",
       "especie": "cachorro",
-      "idade": 0.8,
+      "idade": 0.08,
       "peso": 8,
       "altura": 0.3,
       "curtidas": 0,
+      "isLiked": false,
+      "descricao": "Rex é um cachorro muito brincalhão e amigável. Ele adora correr e brincar com outros cães.",
       "tags": [
         "brincalhão",
         "amigável",
