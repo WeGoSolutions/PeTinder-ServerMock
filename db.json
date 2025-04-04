@@ -31,8 +31,54 @@
         "amigável",
         "peludo"
       ],
-      "imagem": [
-        "public/images/teste.jpeg"
+      "images": [
+        "https://www.petz.com.br/blog/wp-content/uploads/2020/07/raca-de-cachorro-muito-popular-no-brasil-1.jpg",
+        "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/03/14/264292112-golden-retriever-1.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "kenny",
+      "especie": "Gato",
+      "idade": 1.04,
+      "peso": 7,
+      "altura": 0.3,
+      "curtidas": 2,
+      "isLiked": true,
+      "descricao": "Kenny adora explorar cantinhos da casa e se aconchegar no colo para tirar uma soneca. Ele é um companheiro fiel, sempre pronto para brincar ou fazer companhia nos momentos de descanso.",
+      "tags": [
+        "Vacinado",
+        "amigável",
+        "Brincalhão"
+      ],
+      "images": [
+        "https://media.discordapp.net/attachments/723699462555435018/1357801322103050250/WhatsApp_Image_2025-02-28_at_22.25.37.jpeg?ex=67f18685&is=67f03505&hm=45a36a6f6356194c522e8fd779efe2372f68d3985dcd51cbcb37a99a07c59d05&=&format=webp&width=310&height=552",
+        "https://media.discordapp.net/attachments/723699462555435018/1357801322535059756/image_13.jpg?ex=67f18686&is=67f03506&hm=664265d64f816e4860b361f887caa71f458d6c9b0511134cc3911dd5d477267d&=&format=webp&width=574&height=552"
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Diabo",
+      "especie": "cachorro",
+      "idade": 3.08,
+      "peso": 8,
+      "altura": 0.3,
+      "curtidas": 0,
+      "isLiked": false,
+      "descricao": "Rex é um cachorro muito brincalhão e amigável. Ele adora correr e brincar com outros cães.",
+      "tags": [
+        "brincalhão",
+        "amigável",
+        "brincalhão",
+        "amigável",
+        "brincalhão",
+        "amigável",
+        "peludo"
+      ],
+      "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFUAfyVe3Easiycyh3isP9wDQTYuSmGPsPQvLIJdEYvQ_DsFq5Ez2Nh_QjiS3oZ3B8ZPfK9cZQyIStmQMV1lDPLw",
+        "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2024/03/14/264292112-golden-retriever-1.jpg",
+        "https://media.discordapp.net/attachments/723699462555435018/1357801322535059756/image_13.jpg?ex=67f18686&is=67f03506&hm=664265d64f816e4860b361f887caa71f458d6c9b0511134cc3911dd5d477267d&=&format=webp&width=574&height=552"
       ]
     }
   ]
